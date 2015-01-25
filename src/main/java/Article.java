@@ -1,9 +1,3 @@
-import java.util.Date;
-import java.util.List;
-
-/**
- * Created by marius on 25/01/15.
- */
 public class Article {
 
     private final Integer id;

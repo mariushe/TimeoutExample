@@ -1,6 +1,3 @@
-/**
- * Created by marius on 25/01/15.
- */
 public class PublishResult {
 
     public enum Status {
